@@ -1,0 +1,10 @@
+<ng-content> je direktiva v Angularu, která umožňuje vložit obsah do komponenty zvenčí. Tato direktiva se často používá, když chcete vytvořit komponentu, která může přijímat obsah, který se liší podle toho, jak je komponenta použita.
+<ng-content> slouží k definování místa ve vaší komponentě, kam můžete vložit obsah z vnějšku komponenty.
+
+Používá se ve šabloně komponenty jako značka <ng-content></ng-content>. To značí místo, kde bude zobrazen obsah z vnějšku komponenty.
+
+Obsah, který chcete vložit do komponenty, se vkládá mezi značky <ng-content>
+
+Použitím <ng-content> můžete vytvářet víceúčelové a flexibilní komponenty, které umožňují vložit různý obsah a chování podle potřeby, což je jedna z výhod komponentové architektury v Angularu.
+
+video:77
